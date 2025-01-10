@@ -56,4 +56,4 @@ st.write("Watch the video below for more insights on power consumption analysis 
     
 # Use st.video to display a video
 # Option 1: Video from local file (make sure the video file is in the same directory)
-st.video("your_video.mp4")
+st.video("project_video.mp4")
