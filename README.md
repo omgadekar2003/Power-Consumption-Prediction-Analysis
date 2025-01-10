@@ -1,6 +1,6 @@
 # Power Consumption Prediction Web App
 
-This repository contains a web application built using **Streamlit** for predicting power consumption in three zones based on environmental and time-based factors. The app utilizes a **machine learning model** (saved as a `.joblib` file) that predicts power consumption based on inputs such as temperature, humidity, wind speed, and more.
+This repository contains a web application built using **Streamlit** for predicting power consumption in three zones based on environmental and time-based factors. The app utilizes a **machine learning model** (saved as a `.joblib` file) that predicts power consumption based on inputs such as temperature, humidity, wind speed, and more(also see this:[https://github.com/omgadekar2003/Power_Consumption_Analysis]).
 
 ### Table of Contents
 - [About](#about)
